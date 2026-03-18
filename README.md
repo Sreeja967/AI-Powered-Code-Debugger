@@ -1,4 +1,4 @@
-🚀 AI Powered Code Debugger
+##🚀 AI Powered Code Debugger
 
 🔍 Detects bugs and errors in code automatically
 
